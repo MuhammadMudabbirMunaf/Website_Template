@@ -1,0 +1,236 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    display: inline-block;
+}
+.logo{
+    width: 20%;
+    height: 70px;
+    font-size: x-large;
+    float: none;
+    color: white;
+    text-align: center;
+    line-height: 20px;
+    background-color: red;
+    display: inline-block;
+}
+.edition{
+    width: 10%;
+    height: inherit;
+    display: inline-block;
+    font-size: larger;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+}
+.news{
+    width: 10%;
+    height: inherit;
+    display: inline-block;
+    font-size: larger;
+    float: none;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+}
+.sectors{
+    width: 10%;
+    height: inherit;
+    display: inline-block;
+    font-size: larger;
+    float: none;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+}
+.analysis{
+    width: 10%;
+    height: inherit;
+    display: inline-block;
+    font-size: larger;
+    float: none;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+}
+.register{
+    color: white;
+    height: 50px;
+    width: 25%;
+    text-align: left;
+    float: right;
+    line-height: 30px;
+}
+p.search{
+    background-color: inherit;
+    color: inherit;
+    text-align: center;
+    height: 50px;
+    width: 25%;
+    display: inline;
+    line-height: 70px;
+    float: left;
+}
+.commodities{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topics{
+    font-size: medium;
+}
+ul.related{
+    display: inline;
+    font-size: medium;
+}
+ul li{
+    display: inline;
+    padding-left: 15px;
+}
+.index{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: small;
+}
+.number{
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+    display: inline-block;
+    height: 40px;
+    width: 90px;
+    margin-left: 40px;
+    text-align: center;
+}
+.change{
+    color: red;
+    font-size: large;
+    font-weight: 300;
+    display: inline-block;
+    height: 40px;
+    width: 90px;
+    text-align: center;
+}
+.open{
+    color: black;
+    font-size: large;
+    font-weight: 300;
+    display: inline-block;
+    height: 40px;
+    width: 90px;
+    text-align: center;
+}
+.high{
+    color: black;
+    font-size: large;
+    font-weight: 300;
+    display: inline-block;
+    height: 40px;
+    width: 90px;
+    text-align: center;
+}
+.low{
+    color: black;
+    font-size: large;
+    font-weight: 300;
+    display: inline-block;
+    height: 40px;
+    width: 90px;
+    text-align: center;
+}
+.times{
+    font-size: smaller;
+    font-weight: 200;
+    color: black;
+    display: inline-block;
+    height: 40px;
+    width: 90px;
+    text-align: center;
+}
+.futures{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.energy{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+ul.one{
+    display: inline;
+    padding-left: 0px;
+}
+
+.metals{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+ul.two{
+    display: inline;
+    padding-left: 0px;
+}
+
+.grains{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+ul.three{
+    display: inline;
+    padding-left: 0px;
+}
+
+
+.oilseeds{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+ul.four{
+    display: inline;
+    padding-left: 0px;
+}
+
+.softs{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+ul.five{
+    display: inline;
+    padding-left: 0px;
+}
+
+.livestock{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+ul.six{
+    display: inline;
+    padding-left: 0px;
+}
+.weight{
+    font-size: large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paragraph{
+    font-size: medium;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
